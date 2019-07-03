@@ -5,11 +5,11 @@ Program written in Python. Combine all the ```.py``` files in the same directory
 
 File ```simulate\ricepile.py``` contains the simulation for the Oslo model. Other files are used to produce the plots as shown in ```ComplexityReport.pdf```.
 
-# References
+## References
 1.  K. Christensen, A. Corral, V. Frette, J. Feder, and T. Jøssang, Tracer dispersion in a
 self-organized critical system, Phys. Rev. Lett. 77, 107–110 (1996).
 2.  K. Christensen and N.R. Moloney, Complexity and Criticality, ICP (2005).
 3.  G. Pruessner, Self-organised Criticality, Cambridge University Press (2012).
 
-# Acknowledgements
+## Acknowledgements
 Credits to Prof. Kim Christensen for designing the project, and Max Falkenberg McGillivray for the code for log-binning of the data (```logbin6_2_2018.py```).
