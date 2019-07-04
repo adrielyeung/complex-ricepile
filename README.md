@@ -14,4 +14,4 @@ self-organized critical system, Phys. Rev. Lett. 77, 107–110 (1996).
 3.  G. Pruessner, Self-organised Criticality, Cambridge University Press (2012).
 
 ## Acknowledgements
-Credits to Prof. Kim Christensen for designing the project, and Max Falkenberg McGillivray for the code for log-binning of the data (```logbin6_2_2018.py```).
+Credits to Prof. Kim Christensen for designing the project, and Max Falkenberg McGillivray for the code for log-binning of the data (```logbin6_2_2018.py```).  Also special thanks to my friend Dily for completing the project with me all along.
