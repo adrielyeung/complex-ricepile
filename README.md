@@ -3,7 +3,7 @@
 
 This project simulates the Oslo model [1-3] in complexity science, which shows that some responses of a system to a slowly-driven perturbation are irrespective of its scale. The perturbation was simulated by a continuous addition of "rice grains" to a system of certain length (number of sites), and the response was measured by toppling of the grains to the neighbouring site.
 
-Program written in Python. Combine all the ```.py``` files in the same directory for the code to run.
+Program written in Python 3. Combine all the ```.py``` files in the same directory for the code to run.
 
 File ```simulate\ricepile.py``` contains the simulation for the Oslo model. Other files are used to produce the plots as shown in ```ComplexityReport.pdf``` (where the results are detailed).
 
